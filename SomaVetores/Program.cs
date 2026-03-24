@@ -34,7 +34,7 @@ namespace SomaVetores
             {
                 soma = soma + vet[i];
             }
-            
+            mult = 0;
             for (i = 0; i < N; i++)
             {
                 mult = soma * vet[i];
@@ -42,7 +42,7 @@ namespace SomaVetores
 
 
             Console.WriteLine("SOMA = " + soma.ToString("F2", CI));
-
+            System.Console.WriteLine("Multiplicação da soma de Vetores por cada elemento do vetor = " + mult.ToString("F2", CI));
             media = soma / N;
             Console.WriteLine("MEDIA = " + media.ToString("F2", CI));
 
