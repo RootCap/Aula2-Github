@@ -8,7 +8,7 @@ namespace SomaVetores
         {
             CultureInfo CI = CultureInfo.InvariantCulture;
             int N, i;
-            double soma, media;
+            double soma, media, mult;
 
             Console.Write("Quantos números vai digitar? ");
             N = int.Parse(Console.ReadLine());
@@ -34,6 +34,12 @@ namespace SomaVetores
             {
                 soma = soma + vet[i];
             }
+            
+            for (i = 0; i < N; i++)
+            {
+                mult = soma * vet[i];
+            }
+
 
             Console.WriteLine("SOMA = " + soma.ToString("F2", CI));
 

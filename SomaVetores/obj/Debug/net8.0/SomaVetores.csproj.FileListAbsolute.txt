@@ -12,3 +12,4 @@ C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\refint\SomaVetores.dll
 C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.pdb
 C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.genruntimeconfig.cache
 C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\ref\SomaVetores.dll
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.sourcelink.json
