@@ -1,0 +1,14 @@
+C:\WS\WS C#\SomaVetores\SomaVetores\bin\Debug\net8.0\SomaVetores.exe
+C:\WS\WS C#\SomaVetores\SomaVetores\bin\Debug\net8.0\SomaVetores.deps.json
+C:\WS\WS C#\SomaVetores\SomaVetores\bin\Debug\net8.0\SomaVetores.runtimeconfig.json
+C:\WS\WS C#\SomaVetores\SomaVetores\bin\Debug\net8.0\SomaVetores.dll
+C:\WS\WS C#\SomaVetores\SomaVetores\bin\Debug\net8.0\SomaVetores.pdb
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.AssemblyInfoInputs.cache
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.AssemblyInfo.cs
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.csproj.CoreCompileInputs.cache
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.dll
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\refint\SomaVetores.dll
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.pdb
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\SomaVetores.genruntimeconfig.cache
+C:\WS\WS C#\SomaVetores\SomaVetores\obj\Debug\net8.0\ref\SomaVetores.dll
